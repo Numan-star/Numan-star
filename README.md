@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Numan-star
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning and working on PHP, CodeIgniter and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my email address
 
