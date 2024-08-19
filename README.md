@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 🤔 I’m looking for help with **scaling complex applications**
 - 💬 Ask me about Laravel, React.js, Node.js, Next.js, MongoDB, and Full Stack Development
-- 📫 How to reach me: **numan.dev@gmail.com**
+- 📫 How to reach me: **numan.codes@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/numan028](https://github.com/numan028/Numan_Projects)
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-numan](https://www.linkedin.com/in/muhammad-numan)
 - ⚡ Fun fact **Coding is like solving a puzzle!**
