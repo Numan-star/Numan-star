@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **scaling complex applications**
 - 💬 Ask me about Laravel, React.js, Node.js, Next.js, MongoDB, and Full Stack Development
 - 📫 How to reach me: **numan.codes@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/numan028](https://github.com/numan028/Numan_Projects)
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-numan](https://www.linkedin.com/in/muhammad-numan)
+- 👨‍💻 All of my projects are available at [https://github.com/Numan-star](https://github.com/Numan-star)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-numan-618a24241/](https://www.linkedin.com/in/muhammad-numan-618a24241/)
 - ⚡ Fun fact **Coding is like solving a puzzle!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/numan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="numan.dev" height="30" width="40" /></a>
-<a href="https://dribbble.com/numan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="numan.dev" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/profile.php?id=100011664468198](https://www.facebook.com/profile.php?id=100011664468198)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="numan.dev" height="30" width="40" /></a>
+<a href="[https://dribbble.com/Numan-star](https://dribbble.com/Numan-star)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="numan.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
