@@ -3,11 +3,11 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96041723/219878483-444ed279-9ab9-4979-8a1f-a5b72ae203e2.gif" width="500"/>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full Stack Development with Laravel, React.js, Next.js, and Node.js
+- 🔭 I’m currently working on Full Stack Development with Laravel, Vue.js, Next.js, and Node.js
 - 🌱 I’m currently learning **Advanced Next.js, API Development, and Web Performance Optimization**
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 🤔 I’m looking for help with **scaling complex applications**
-- 💬 Ask me about Laravel, React.js, Node.js, Next.js, MongoDB, and Full Stack Development
+- 💬 Ask me about Laravel, Vue.js, Node.js, Next.js, MongoDB, and Full Stack Development
 - 📫 How to reach me: **numan.codes@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/Numan-star](https://github.com/Numan-star)
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-numan-618a24241/](https://www.linkedin.com/in/muhammad-numan-618a24241/)
