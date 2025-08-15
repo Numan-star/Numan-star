@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Laravel, Vue.js, Node.js, Next.js, MongoDB, and Full Stack Development
 - 📫 How to reach me: **numan.codes@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/Numan-star](https://github.com/Numan-star)
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-numan-618a24241/](https://www.linkedin.com/in/muhammad-numan-618a24241/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-numan-full-stack-dev/](https://www.linkedin.com/in/muhammad-numan-full-stack-dev/)
 - ⚡ Fun fact **Coding is like solving a puzzle!**
 
 <h3 align="left">Connect with me:</h3>
