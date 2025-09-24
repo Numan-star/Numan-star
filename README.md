@@ -3,11 +3,11 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96041723/219878483-444ed279-9ab9-4979-8a1f-a5b72ae203e2.gif" width="500"/>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full Stack Development with Laravel, Vue.js, Next.js, and Node.js
-- 🌱 I’m currently learning **Advanced Vue.js, Next.js, API Development, and Web Performance Optimization**
+- 🔭 I’m currently working on Full Stack Development with Laravel, Vue.js, React.js & Next.js.
+- 🌱 I’m currently learning **Advanced Vue.js, React.js, Next.js, API Development, and Web Performance Optimization**
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 🤔 I’m looking for help with **scaling complex applications**
-- 💬 Ask me about Laravel, Vue.js, Node.js, Next.js, MongoDB, and Full Stack Development
+- 💬 Ask me about Laravel, Vue.js, React.js, Next.js, MySql, and Full Stack Development
 - 📫 How to reach me: **numan.codes@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/Numan-star](https://github.com/Numan-star)
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-numan-full-stack-dev/](https://www.linkedin.com/in/muhammad-numan-full-stack-dev/)
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
  </a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+ </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
