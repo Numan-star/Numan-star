@@ -1,46 +1,117 @@
 <h1 align="center">Hi 👋, I'm Muhammad Numan</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96041723/219878483-444ed279-9ab9-4979-8a1f-a5b72ae203e2.gif" width="500"/>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full Stack Development with Laravel, Vue.js, React.js & Next.js.
-- 🌱 I’m currently learning **Advanced Vue.js, React.js, Next.js, API Development, and Web Performance Optimization**
-- 👯 I’m looking to collaborate on Full Stack Projects
-- 🤔 I’m looking for help with **scaling complex applications**
-- 💬 Ask me about Laravel, Vue.js, React.js, Next.js, MySql, and Full Stack Development
-- 📫 How to reach me: **numan.codes@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/Numan-star](https://github.com/Numan-star)
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-numan-full-stack-dev/](https://www.linkedin.com/in/muhammad-numan-full-stack-dev/)
-- ⚡ Fun fact **Coding is like solving a puzzle!**
+<h3 align="center">Full Stack Developer | Laravel & Vue.js | React & Next.js | SaaS & REST APIs</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100011664468198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="numan" height="30" width="40" /></a>
-<a href="https://dribbble.com/Numan-star" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="numan" height="30" width="40" /></a>
+<p align="center">
+  I build scalable, production-ready web applications, SaaS platforms, REST APIs, and business solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a>
- <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
- </a>
- <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+---
+
+### 👨‍💻 About Me
+
+* 💼 Full Stack Developer with **3+ years of hands-on experience**
+* 🚀 Building **SaaS applications and scalable web platforms**
+* 🔧 Strong backend experience with **Laravel & PHP**
+* 🎨 Building modern interfaces with **Vue.js, React.js, Next.js & Tailwind CSS**
+* 🔌 Designing and integrating **REST APIs and third-party services**
+* 💳 Working with **Stripe, payment systems & webhooks**
+* 🤖 Integrating **AI APIs and automation into web applications**
+* 🗄️ Experienced with **MySQL, SQL & MongoDB**
+* 🐳 Familiar with **Docker, Git, CI/CD & Linux deployments**
+* 🔐 Experienced with **authentication, authorization, JWT & OAuth**
+* 📈 Interested in **application scalability, performance & clean architecture**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+
+<a href="https://laravel.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
 </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+<a href="https://www.php.net/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</a>
+
+<a href="https://vuejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</a>
+
+</p>
+
+### 🔥 What I Build
+
+* Multi-tenant SaaS applications
+* RESTful APIs and backend services
+* Admin dashboards and business platforms
+* Payment and subscription systems
+* Third-party API integrations
+* AI-powered web applications
+* Authentication and role-based systems
+* Performance-focused Laravel applications
+
+### 📚 Currently Improving
+
+* Advanced Vue.js & TypeScript
+* React.js & Next.js
+* Scalable SaaS architecture
+* Database and API performance
+* Automated testing
+* CI/CD and production deployments
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-numan-full-stack-dev/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+</p>
+
+<p align="left">
+<a href="mailto:numan.codes@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<strong>💡 I enjoy turning complex business requirements into reliable, scalable software.</strong>
 </p>
