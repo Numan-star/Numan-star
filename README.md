@@ -1,26 +1,28 @@
 <h1 align="center">Hi 👋, I'm Muhammad Numan</h1>
 
-<h3 align="center">Full Stack Developer | Laravel & Vue.js | React & Next.js | SaaS & REST APIs</h3>
+<h3 align="center">Senior Full Stack Developer | Laravel & PHP | React & Next.js | SaaS Architecture | AI & API Integrations</h3>
 
 <p align="center">
-  I build scalable, production-ready web applications, SaaS platforms, REST APIs, and business solutions.
+  I build scalable, production-ready SaaS platforms, web applications, REST APIs, and AI-powered business solutions.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 💼 Full Stack Developer with **3+ years of hands-on experience**
-* 🚀 Building **SaaS applications and scalable web platforms**
-* 🔧 Strong backend experience with **Laravel & PHP**
-* 🎨 Building modern interfaces with **Vue.js, React.js, Next.js & Tailwind CSS**
-* 🔌 Designing and integrating **REST APIs and third-party services**
-* 💳 Working with **Stripe, payment systems & webhooks**
-* 🤖 Integrating **AI APIs and automation into web applications**
-* 🗄️ Experienced with **MySQL, SQL & MongoDB**
-* 🐳 Familiar with **Docker, Git, CI/CD & Linux deployments**
-* 🔐 Experienced with **authentication, authorization, JWT & OAuth**
-* 📈 Interested in **application scalability, performance & clean architecture**
+* 💼 **Senior Full Stack Developer** with 3+ years of professional experience
+* 🚀 Building **scalable SaaS platforms and production-ready web applications**
+* 🏗️ Designing **clean, maintainable backend architectures** with Laravel & PHP
+* ⚛️ Building modern web applications with **React.js, Next.js & TypeScript**
+* 🎨 Developing responsive interfaces with **Tailwind CSS**
+* 🔌 Designing and integrating **REST APIs, webhooks & third-party services**
+* 🤖 Building **AI-powered features and integrating LLM APIs into business applications**
+* 💳 Implementing **Stripe, payments, subscriptions & payment webhooks**
+* 🔐 Building secure systems with **authentication, authorization, RBAC, JWT & OAuth**
+* 🗄️ Working with **MySQL, PostgreSQL, MongoDB & Redis**
+* 🐳 Using **Docker, Git, CI/CD & Linux** for development and production deployments
+* ⚡ Focused on **performance, scalability, security & clean architecture**
+* 🧪 Building reliable applications with **automated testing and maintainable code**
 
 ### 🛠️ Tech Stack
 
@@ -32,10 +34,6 @@
 
 <a href="https://www.php.net/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</a>
-
-<a href="https://vuejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
 </a>
 
 <a href="https://react.dev/">
@@ -58,8 +56,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+
 <a href="https://www.mongodb.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 </a>
 
 <a href="https://www.docker.com/">
@@ -76,23 +82,41 @@
 
 </p>
 
+### 🤖 AI & Integrations
+
+* AI-powered application development
+* LLM API integrations
+* AI assistants and conversational workflows
+* OpenAI & Claude integrations
+* AI-powered automation
+* Function/tool calling and structured AI workflows
+* REST APIs and third-party integrations
+* Webhooks and event-driven integrations
+
 ### 🔥 What I Build
 
-* Multi-tenant SaaS applications
-* RESTful APIs and backend services
-* Admin dashboards and business platforms
-* Payment and subscription systems
-* Third-party API integrations
-* AI-powered web applications
-* Authentication and role-based systems
-* Performance-focused Laravel applications
+* 🏢 Multi-tenant SaaS applications
+* 🚀 Scalable Laravel applications
+* 🔌 RESTful APIs and backend services
+* 📊 Admin dashboards and business platforms
+* 💳 Payment, subscription and billing systems
+* 🤖 AI-powered applications and assistants
+* 🔗 Third-party API and webhook integrations
+* 🔐 Authentication and role-based access systems
+* 📱 Mobile application backends and APIs
+* ⚡ High-performance and production-ready applications
 
-### 📚 Currently Improving
+### 🏗️ Engineering Focus
 
-* Advanced Vue.js & TypeScript
-* React.js & Next.js
 * Scalable SaaS architecture
-* Database and API performance
+* Laravel application architecture
+* REST API design
+* Database design and optimization
+* Authentication & authorization
+* Payment architecture with Stripe
+* AI integration and automation
+* Application security
+* Performance optimization
 * Automated testing
 * CI/CD and production deployments
 
@@ -113,5 +137,5 @@
 ---
 
 <p align="center">
-<strong>💡 I enjoy turning complex business requirements into reliable, scalable software.</strong>
+<strong>💡 I turn complex business requirements into scalable, secure, and reliable software.</strong>
 </p>
